@@ -1,4 +1,4 @@
-# Machine_Learning_236756_Projects
+# Machine Learning 236756 Projects
 
 Winter 2021-22 semester, a joint effort by Ido Amit and Dorin Shteyman.
 
